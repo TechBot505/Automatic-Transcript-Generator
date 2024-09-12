@@ -56,7 +56,7 @@ Follow these steps to set up the project locally:
 5. Run the Application
    
    ```bash
-   streamlit run app.py
+   streamlit run main.py
    ```
 
 ## Setting Up MySQL Database
